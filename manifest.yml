@@ -1,0 +1,5 @@
+ applications:
+ - name: infallible-kalam
+   memory: 256M
+   host: infallible-kalam
+   buildpack: staticfile_buildpack
